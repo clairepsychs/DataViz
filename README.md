@@ -1,13 +1,10 @@
-Maybe an image here?
+Olympic Data Visualization Project
 
-# Olympic Data Visualization Project
+Which country earned the most amount of Golds, Silvers, and Bronze medals.
 
-### synopsis would go here
 
-and some texet about project and insights
+### Claire
 
-### Author
-
-### Tools Used
+### Python3 
 
 ### License

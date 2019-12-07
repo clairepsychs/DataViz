@@ -1,10 +1,9 @@
-Olympic Data Visualization Project
+###Olympic Data Visualization Project
 
 Which country earned the most amount of Golds, Silvers, and Bronze medals.
 
 
-### Claire
+##
+Made by Claire Sykes
 
-### Python3 
-
-### License
+Using Tableau, Sublime Text, Python 3 and GitHub
